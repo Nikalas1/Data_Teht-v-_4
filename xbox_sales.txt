@@ -1,0 +1,36 @@
+Xbox hardware sales have experienced a significant and sustained decline throughout 2024 and 2025, extending into early 2026.
+Key Financial Data
+
+* Hardware Revenue Collapse: In the second quarter of fiscal year 2026 (Q2 FY26), Xbox hardware revenue plummeted by 32% year-over-year.
+* Sustained Downtrend: This marks the eighth consecutive quarter of hardware decline, following previous drops of 29% in Q1 FY26 and 42% in Q4 FY24.
+* Market Specifics:
+* United States: Sales in November 2025 were reportedly down by 70% year-over-year, marking one of the worst months for the industry since 1995.
+   * United Kingdom: 2025 was cited as the "worst year on record" for Xbox consoles, with a 39% annual sales drop. [1, 2, 3, 4, 5, 6, 7, 8] 
+
+Primary Drivers of the Decline
+
+* Price Increases: Microsoft raised console prices multiple times in 2025, including hikes in May and October, which significantly suppressed consumer demand.
+* Strategic Pivot: The company has shifted its focus away from hardware toward a "platform-agnostic" ecosystem, prioritizing Xbox Game Pass, cloud gaming, and PC.
+* Multi-platform Releases: Bringing former exclusives to competing platforms (like PlayStation) has reduced the necessity of owning an Xbox console.
+* Competitive Pressure: While Xbox sales cratered, competitors like the PlayStation 5 and the newly launched Nintendo Switch 2 maintained stronger market positions. [5, 9, 10, 11, 12, 13, 14] 
+
+Current Outlook
+Despite the hardware slump, Microsoft's overall gaming revenue is heavily supported by its acquisition of Activision Blizzard, though even content and services revenue saw a slight 5% dip in the most recent quarter. [15, 16] 
+Would you like to explore how Xbox Game Pass pricing changes have impacted subscriber numbers during this period?
+
+[1] [https://xboxera.com](https://xboxera.com/2026/01/28/xbox-down-yoy-in-both-hardware-and-services-for-q2-fy26/)
+[2] [https://www.gamespot.com](https://www.gamespot.com/articles/xbox-gaming-revenue-declines-as-console-sales-continue-to-slump/1100-6537749/#:~:text=Xbox%20gaming%20hardware%20revenue%20has%20declined%20for,this%20trend%20to%20continue%20into%202026%2C%20too.)
+[3] [https://www.gamedeveloper.com](https://www.gamedeveloper.com/business/xbox-hardware-revenue-is-in-decline-again-by-29-percent)
+[4] [https://x.com](https://x.com/nib95_/status/2016821611534372944)
+[5] [https://www.notebookcheck.net](https://www.notebookcheck.net/As-Xbox-console-sales-collapse-Microsoft-bets-big-on-Game-Pass-Cloud-and-multiplatform-releases.1197709.0.html#:~:text=Xbox%27s%20hardware%20business%20suffered%20a%20historic%20downturn,of%20the%20industry%27s%20worst%20months%20since%201995.)
+[6] [https://www.techradar.com](https://www.techradar.com/gaming/gaming-hardware-sales-data-reveals-xbox-and-its-price-hikes-to-be-the-biggest-loser-of-2025)
+[7] [https://timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/technology/gaming/xbox-may-have-suffered-its-worst-year-on-record-for-console-sales-and-why-its-not-alone/articleshow/126376378.cms)
+[8] [https://www.purexbox.com](https://www.purexbox.com/news/2026/01/xbox-console-sales-the-worst-on-record-in-2025-as-microsoft-shifts-focus-uk)
+[9] [https://www.youtube.com](https://www.youtube.com/watch?v=HcopiMe8fok)
+[10] [https://www.hollywoodreporter.com](https://www.hollywoodreporter.com/business/business-news/xbox-console-sales-drop-29-percent-summer-2025-price-hike-1236413316/)
+[11] [https://www.vgchartz.com](https://www.vgchartz.com/article/466886/xbox-revenue-drops-9-in-holiday-2025-quarter-hardware-revenue-falls-31/)
+[12] [https://insider-gaming.com](https://insider-gaming.com/xbox-revenue-declines-microsoft-earnings/)
+[13] [https://ixbt.games](https://ixbt.games/en/news/2025/12/31/xbox-series-xs-teriaet-rynok-novye-dannye-o-prodazax-v-2025-godu.html)
+[14] [https://www.vgchartz.com](https://www.vgchartz.com/article/467089/2026-worldwide-sales-comparison-charts-through-january-switch-2-vs-ps5-vs-xbox-series-vs-switch/)
+[15] [https://respawn.outlookindia.com](https://respawn.outlookindia.com/gaming/gaming-news/xbox-hardware-sales-plunge-32-as-microsoft-pivots-to-ps5-cloud)
+[16] [https://www.purexbox.com](https://www.purexbox.com/news/2026/01/microsoft-cfo-admits-xbox-revenue-was-below-expectations-in-fy26-q2)
